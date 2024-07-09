@@ -1,0 +1,8 @@
+[0706/211331.979:ERROR:gles2_command_buffer_stub.cc(364)] ContextResult::kFatalFailure: Failed to map shared state buffer.
+[0706/211332.512:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 33
+[0706/211332.517:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 35
+[0706/211332.521:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 37
+[0706/211332.521:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 39
+[0706/211332.521:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 41
+[0706/211335.670:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 13
+[0706/211523.196:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
