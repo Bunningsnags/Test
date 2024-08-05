@@ -11,7 +11,23 @@
 				"E:/GameDevelopment/Test/GAM1103/Content/Blueprints/BP_FirstPersonPawn.uasset",
 				"E:/GameDevelopment/Test/GAM1103/Content/Blueprints/Enemies/BP_MoveableEnemy_Ranged.uasset",
 				"E:/GameDevelopment/Test/GAM1103/Content/Blueprints/BP_InteractItem.uasset",
-				"E:/GameDevelopment/Test/GAM1103/Content/Blueprints/Enemies/BehaviorTrees/BT_Enemy_Base.uasset"
+				"E:/GameDevelopment/Test/GAM1103/Content/Blueprints/Enemies/BehaviorTrees/BT_Enemy_Base.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/Blueprints/Enemies/BP_StanstillEnemyRanged_2.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/Components/Hotline.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/Blueprints/BP_Door.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/Maps/Level_1.umap",
+				"E:/GameDevelopment/Test/GAM1103/Content/Blueprints/Puzzle/BP_EndComponent.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/Blueprints/BP_InteractLight.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/Blueprints/ButtonDown_Player.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/Blueprints/ButtonItem.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/SoundFX/SWORD_Falchion_Slide_Down_01_Cue.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/Blueprints/Enemies/BP_EnemyProjectile.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/SoundFX/CROWBAR_Curved_Metal_Hit_Cymbal_01_01_Cue.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/SoundFX/CROWBAR_Curved_Metal_Hit_Cymbal_01_01.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/SoundFX/SWORD_Falchion_Sheathe_Leather_01.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/SoundFX/SWORD_Falchion_Sheathe_Leather_01_Cue.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/SoundFX/SWORD_Falchion_Unsheathe_Leather_01.uasset",
+				"E:/GameDevelopment/Test/GAM1103/Content/SoundFX/SWORD_Falchion_Unsheathe_Leather_01_Cue.uasset"
 			]
 		}
 	]
